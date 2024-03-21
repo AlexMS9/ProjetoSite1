@@ -1,0 +1,93 @@
+#cabecalho {
+    text-align: center;
+    font-family: Poppins, 'sans-serif';
+    font-size: x-large;
+    background-color: cornflowerblue;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-shadow: 3px 0px 1px lightgray;
+
+}
+#botoes {
+    font: 500;
+}
+.search-text {
+    width: 93%;
+}
+
+#lupa {
+    width: 5%;
+    padding-top: 10px;
+}
+
+#divisoria {
+    background-color: cornflowerblue;
+    text-align: center;
+    font-family: Poppins, 'sans-serif';
+}
+
+.menu {
+    font-family: Poppins, 'sans-serif';
+    font-size: 16px;
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.menu hr {
+    padding: 1px;
+    margin: 0;
+    width: 6px;
+    background-color: black;
+}
+
+.conteudo {
+    font-family: Poppins 'sans-serif';
+    font-size: x-large;
+}
+
+#editor {
+    width: 30%;
+    padding-left: 600px;
+}
+
+.menu2 {
+    font-family: Poppins, 'sans-serif';
+    font-size: 20px;
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.menu2 hr {
+    padding: 1px;
+    margin: 0;
+    width: 6px;
+    background-color: black;
+}
+
+.lista {
+    font-family: Poppins, 'sans-serif';
+    font-size: large;
+}
+
+#loginimg {
+    padding-top: 30px;
+    width: 25%;
+    padding-left: 10px;
+}
+
+.login {
+    float: right;
+    font-family: Poppins, 'sans-serif';
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    border: solid black;
+    border-radius: 5px;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+
+.login input {
+    border-radius: 5px;
+    margin: 5px;
+}
